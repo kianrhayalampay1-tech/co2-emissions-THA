@@ -1,6 +1,4 @@
 # CO₂ Emissions Analysis of Thailand (1990–2024)
-# co2-emissions-VNM## CO₂ Emissions Analysis of Thailand (1990–2024)
-
 This analysis examined the changes in Thailand's annual CO₂ emissions and CO₂ emissions per capita from 1990 to 2024 using data from Our World in Data. The results show that annual CO₂ emissions generally increased over the study period. In 1990, emissions were approximately 86.56 million tonnes, while in 2024, they reached 267.76 million tonnes, representing an overall increase of 209.32%.
 
 The highest annual CO₂ emission was recorded in 2018, reaching 288.30 million tonnes. After 2018, emissions generally decreased, although some fluctuations occurred through 2024. Similarly, CO₂ emissions per capita increased from 1.58 tonnes per person in 1990 to 4.04 tonnes in 2018, before declining to 3.74 tonnes in 2024.
